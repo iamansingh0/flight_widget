@@ -1,3 +1,3 @@
 # flight_widget_js
 
-https://flight-widget-livid.vercel.app/
+https://flight-widget-uwqa.vercel.app/
